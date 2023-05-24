@@ -1,9 +1,9 @@
-EXERCÍCIO AVALIATIVO AV2
-ESTRUTURA DE DADOS EM C
-Prof. Simone Gama
-Aluno: Lucas Rodrigues Capiluppi 202202863157
+//EXERCÍCIO AVALIATIVO AV2//
+//ESTRUTURA DE DADOS EM C//
+//Prof. Simone Gama//
+//Aluno: Lucas Rodrigues Capiluppi 202202863157//
 
-Questão 1.
+//Questão 1.//
 #include <stdio.h>
 #include <stdlib.h>
 void bubbleSort(int vetor[], int n) {
@@ -78,7 +78,7 @@ int main() {
     return 0;
 }
 
-Questão 2.
+//Questão 2.//
 #include <stdio.h>
 #include <stdlib.h>
 
